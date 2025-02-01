@@ -1,0 +1,19 @@
+# Install Python and pip 
+sudo apt update
+
+sudo apt install python3
+
+sudo apt install python3-pip
+
+# Install Mage
+sudo pip3 install mage-ai
+
+# Install Pandas
+sudo pip3 install pandas
+
+# Install Google Cloud Library
+sudo pip3 install google-cloud
+
+sudo pip3 install google-cloud-bigquery
+
+sudo pip3 install db-dtypes
